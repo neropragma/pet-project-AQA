@@ -1,4 +1,4 @@
-# Проект по автоматизации web(https://www.saucedemo.com) и api(https://reqres.in)
+# Проект по автоматизации web (https://www.saucedemo.com) и api (https://reqres.in)
 ## Allure отчет при локальном запуске
 
 > Иппользованые технологии: <code>Selenide</code>, <code>Rest Assured</code>, <code>Allure</code>, <code>Jenkins</code>
