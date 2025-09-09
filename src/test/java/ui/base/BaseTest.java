@@ -22,6 +22,7 @@ public class BaseTest {
         options.addArguments("--start-maximized");
         options.addArguments("--no-sandbox");
 
+        Configuration.browserCapabilities = options;
         Configuration.browser = PROPERTIES.getBrowserName();
         Configuration.browserVersion = PROPERTIES.getBrowserVersion();
         Configuration.baseUrl = PROPERTIES.getBaseUrl();
